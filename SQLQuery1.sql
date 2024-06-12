@@ -1,0 +1,1 @@
+select * from dbo.ipl_matches_2008_2022
